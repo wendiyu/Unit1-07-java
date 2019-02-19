@@ -30,7 +30,7 @@ public class BoardFoot {
 		
 		// width and length can not equal 0 or negative
 		if(length <= 0 || width <= 0 ) {
-			System.out.println("Invalid input! Please, put a positive and not 0 number for width and length.");
+			System.out.println("Invalid input! Please, put a positive number that bigger than 0 for width and length.");
 		}
 		
 		else {
